@@ -1,0 +1,21 @@
+---
+title: "_r_tidyverse_curriculum_"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Getting started
+
+# Wrangling
+
+# Visualization
+
+# Importing
+
+
+
+
+
