@@ -1,7 +1,6 @@
 Solutions - The 5 verbs of dplyr
 ================
 Ben
-2017-09-23
 
 -   [Getting started](#getting-started)
 -   [Arrange](#arrange)

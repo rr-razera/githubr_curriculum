@@ -1,10 +1,6 @@
 ---
 title: Solutions - The 5 verbs of dplyr
 author: Ben
-date: '2017-09-23'
-slug: the-5-verbs-of-dplyr-solutions
-categories: []
-tags: []
 output: 
   github_document:
     toc: true
