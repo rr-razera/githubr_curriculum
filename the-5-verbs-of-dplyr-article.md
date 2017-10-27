@@ -1,7 +1,6 @@
 Article - The 5 verbs of dplyr
 ================
 Ben
-2017-09-19
 
 -   [Getting started](#getting-started)
 -   [Arrange](#arrange)
@@ -44,7 +43,7 @@ hamsters <- data_frame(name = c("Megan", "Amy", "Jen", "Karl", "Jeremy"),
 
 Don't worry too much about the above code, but you might stop and inspect it. Notice that we're creating a data frame named hamsters. The first column is name and then we list the names. The c stands for concatenate and its how we stick multiple things together. All strings (aka words) need to have quotes around them. The second column is gender and so on.
 
-By just running the name of the data frame, hamsters, it will show it to us and tell us a little bit about it. The 7 x 4 says it has 7 rows and 4 columns. Each column has a type: name and gender are <chr> which stands for characters, and the other columns are <dbl> which stands for double and is another word for number.
+By just running the name of the data frame, hamsters, it will show it to us and tell us a little bit about it. The 5 x 4 says it has 5 rows and 4 columns. Each column has a type: name and gender are <chr> which stands for characters, and the other columns are <dbl> which stands for double and is another word for number.
 
 ``` r
 hamsters
@@ -480,7 +479,7 @@ dataframe %>%
    group_by(a)
 ```
 
-![](/images/group_by.png)
+![](/Users/benstenhaug/Google%20Drive/Projects/Data%20Science%20Tutoring/githubr_curriculum/images/group_by.png)
 
 *Sourced from [R Bootcamp at Berkeley](https://github.com/berkeley-scf/r-bootcamp-2017)*
 
@@ -521,7 +520,7 @@ The final line is where the magic happens. It tells R to return only the gender 
 
 Notice that the male group isn't included because the max number of hamster cages is 4, not 3.
 
-Similarly, we can get the gender group where the mean number of hamsters is 6. This time its the male group because there are two males -- one with 1 hamster and the other with 2 hamsters.
+Similarly, we can get the gender group where the mean number of hamsters is 1.5. This time its the male group because there are two males -- one with 1 hamster and the other with 2 hamsters.
 
 ``` r
 hamsters 
