@@ -3,9 +3,9 @@ title: Article - The 5 verbs of dplyr
 author: Ben
 date: '2017-09-19'
 slug: the-5-verbs-of-dplyr-article
-output:
-  blogdown::html_page:
-    toc: yes
+output: 
+  github_document:
+    toc: true
 ---
 
 # Getting started

@@ -1,20 +1,20 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"_r_tidyverse_curriculum_\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n# Getting started\n\n# Wrangling\n\n# Visualization\n\n# Importing\n\n\n\n\n\n",
+    "contents" : "---\ntitle: \"_r_tidyverse_curriculum_\"\noutput: \n  github_document:\n    toc: true\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n# Getting started\n\n# Wrangling\n\n# Visualization\n\n# Importing\n\n\n\n\n\n",
     "created" : 1509141461111.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "461453434",
+    "hash" : "3067499695",
     "id" : "26CCC25E",
-    "lastKnownWriteTime" : 1509141903,
-    "last_content_update" : 1509141903886,
+    "lastKnownWriteTime" : 1509142392,
+    "last_content_update" : 1509142392380,
     "path" : "~/Google Drive/Projects/Data Science Tutoring/githubr_curriculum/_r_tidyverse_curriculum_.Rmd",
     "project_path" : "_r_tidyverse_curriculum_.Rmd",
     "properties" : {
         "tempName" : "Untitled1"
     },
-    "relative_order" : 3,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

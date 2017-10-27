@@ -1,6 +1,8 @@
 ---
 title: "_r_tidyverse_curriculum_"
-output: html_document
+output: 
+  github_document:
+    toc: true
 ---
 
 ```{r setup, include=FALSE}
