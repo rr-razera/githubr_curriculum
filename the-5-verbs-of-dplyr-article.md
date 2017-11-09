@@ -479,7 +479,7 @@ dataframe %>%
    group_by(a)
 ```
 
-![](/Users/benstenhaug/Google%20Drive/Projects/Data%20Science%20Tutoring/githubr_curriculum/images/group_by.png)
+![](./images/group_by.png)
 
 *Sourced from [R Bootcamp at Berkeley](https://github.com/berkeley-scf/r-bootcamp-2017)*
 
